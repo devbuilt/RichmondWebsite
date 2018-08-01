@@ -1,0 +1,8 @@
+{
+  "name": "Richmond United",
+  "description": "A Node.js app using Express 4",
+  "repository": "",
+  "logo": "",
+  "keywords": ["node", "express", "heroku"],
+  "image": "Richmond"
+}
